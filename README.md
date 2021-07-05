@@ -5,7 +5,7 @@
 - :house_with_garden: I’m from Brazil.
 - :books: I’m currently learning everything.
 - 😄 Pronouns: ela/dela, she/her
-<img src=https://media.giphy.com/media/TEnq1cc5pEb2Sz8pwP/giphy.gif style="float: right;" width="300">
+<img src=https://media.giphy.com/media/TEnq1cc5pEb2Sz8pwP/giphy.gif align="right" width="300">
 
 ## How to find me
 
