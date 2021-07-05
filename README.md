@@ -1,11 +1,12 @@
 ### Hi there, I'm Valéria Letícia 👋
 
-<img src=https://media.giphy.com/media/TEnq1cc5pEb2Sz8pwP/giphy.gif align="right" width="300">
+
 - :computer: I'm Front-End Developer!
 - :house_with_garden: I’m from Brazil.
 - :books: I’m currently learning everything.
 - 😄 Pronouns: ela/dela, she/her
 
+<img src=https://media.giphy.com/media/TEnq1cc5pEb2Sz8pwP/giphy.gif align="right" width="200">
 
 ## How to find me
 
