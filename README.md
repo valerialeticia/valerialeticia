@@ -9,7 +9,7 @@
 
 ## How to find me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/val%C3%A9ria-let%C3%ADcia-519511162/)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/val%C3%A9ria-let%C3%ADcia-519511162//)](https://www.linkedin.com/in/val%C3%A9ria-let%C3%ADcia-519511162/)
 
 ## Languages and tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valerialeticia)](https://github.com/valerialeticia/github-readme-stats)
