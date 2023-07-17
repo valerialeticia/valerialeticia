@@ -4,7 +4,6 @@
 - :computer: I'm Front-End Developer!
 - :house_with_garden: I’m from Brazil.
 - :books: I’m currently learning everything.
-- 😄 Pronouns: ela/dela, she/her
 
 <img src=https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif align="right" width="200">
 
